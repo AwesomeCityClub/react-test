@@ -24,9 +24,10 @@ const HomeComponent = () => {
             <div className="h-100 p-5 text-white bg-dark rounded-3">
               <h2>As a student</h2>
               <p>
-                Students can register in courses they like. This website is for
-                practice purpose only, so please do not provide any personal
-                information, such as credit card numbers.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
+                tempora fugit. Facilis beatae dicta, neque animi obcaecati culpa
+                asperiores possimus hic, et soluta officiis cupiditate velit
+                fugiat. Pariatur, magni ut?
               </p>
               <button className="btn btn-outline-light" type="button">
                 Login or Register Now
@@ -37,10 +38,10 @@ const HomeComponent = () => {
             <div className="h-100 p-5 bg-light border rounded-3">
               <h2>As an Instructor</h2>
               <p>
-                You can become an instructor by registering as one, and start
-                making online courses. This website is for practice purpose
-                only, so please do not provide any personal information, such as
-                credit card numbers.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias
+                ad vel quaerat nulla laboriosam impedit. Explicabo, molestias
+                unde neque optio vero distinctio asperiores atque blanditiis
+                totam vel dolores consequatur sapiente!
               </p>
               <button class="btn btn-outline-secondary" type="button">
                 Login or Register Now
@@ -50,7 +51,7 @@ const HomeComponent = () => {
         </div>
 
         <footer className="pt-3 mt-4 text-muted border-top">
-          &copy; 2021 Wilson Ren
+          &copy; 2022 Hello World
         </footer>
       </div>
     </main>
